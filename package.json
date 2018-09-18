@@ -1,10 +1,6 @@
 {
   "name": "http-api-assignment",
   "version": "1.0.0",
-  "engines": {
-    "node": "8.4.0",
-    "npm": "6.2.0"
-  },
   "description": "IGME-430 Class Exercise",
   "main": "src/server.js",
   "scripts": {
